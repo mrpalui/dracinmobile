@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Dramabox Mobile",
+  title: "Dramabox Mobile by Mr-PaLui",
   description: "Stream unlimited drama.",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
 }
