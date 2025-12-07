@@ -16,7 +16,7 @@ const nextConfig = {
     return [
       {
         source: "/api_proxy/:path*",
-        destination: "https://sapi.dramabox.be/api/:path*", 
+        destination: "https://dramabox.sansekai.my.id/api/:path*", 
       },
     ];
   },
